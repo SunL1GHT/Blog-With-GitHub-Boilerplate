@@ -12,15 +12,43 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/typography/</loc>
-    <lastmod>2019-12-18</lastmod>
+    <loc>/archives/箴言晓录/</loc>
+    <lastmod>2020-02-10</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/my-first-awesome-post/</loc>
-    <lastmod>2019-12-17</lastmod>
+    <loc>/archives/如何阅读一本书/</loc>
+    <lastmod>2020-02-10</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/读书有法/</loc>
+    <lastmod>2020-02-10</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/古典乐博一下开心/</loc>
+    <lastmod>2020-02-07</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/火影之名/</loc>
+    <lastmod>2019-05-03</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+</url>
+
+<url>
+    <loc>/archives/RoughTale/</loc>
+    <lastmod>2019-05-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
