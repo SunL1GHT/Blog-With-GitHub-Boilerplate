@@ -15,14 +15,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "不好意思"
+site_name = "Gary Pieces"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
-author = "xxxx"
-email = "hi@imalan.cn"
-author_homepage = "https://www.imalan.cn"
-description = "最大的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+site_build_date = "2020-02-10T16:51+08:00"
+author = "Gary"
+email = "Garygu9426@gmail.com"
+author_homepage = "http://www.techgary.xyz"
+description = "永远相信美好的事情即将发生。"
+key_words = [ '鲸鱼元素', 'Pieces', 'Wiki']
 language = 'zh-CN'
 external_links = [
     {
@@ -57,17 +57,17 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/Gary0Gu",
         "icon": "gi gi-twitter"
     },
     {
         "name": "GitHub",
-        "url": "https://github.com/AlanDecode",
+        "url": "https://github.com/SunL1GHT",
         "icon": "gi gi-github"
     },
     {
         "name": "Weibo",
-        "url": "https://weibo.com/5245109677/",
+        "url": "https://weibo.com/3182176652/",
         "icon": "gi gi-weibo"
     }
 ]
