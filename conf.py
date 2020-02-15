@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "Gary Pieces"
+site_name = "三缄其口 && 九九帰一"
 site_logo = "${static_prefix}slogan.png"
 site_build_date = "2020-02-10T16:51+08:00"
 author = "Gary"
 email = "Garygu9426@gmail.com"
 author_homepage = "http://www.techgary.xyz"
 description = "永远相信美好的事情即将发生。"
-key_words = [ '鲸鱼元素', 'Pieces', 'Wiki']
+key_words = [ '人生自留地', '碎片化', '我来自过去']
 language = 'zh-CN'
 external_links = [
     {

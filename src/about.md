@@ -2,21 +2,20 @@
 layout: page
 title: 关于
 slug: about
-date: 2017/06/28 17:26:00
+date: 2020/02/14 00:00:00
 status: publish
-author: AlanDecode
+author: Gary
 categories: 
-  - Maverick
-  - Dev
+  - 个人
 tags: 
-  - theme
+  - 标签
 ---
 
-这里是我的个人博客，通过 GitHub 管理与构建。
+这里是我的个人博客，搭建于19年，而又在20年重新起航。
+本来的希冀就是成为自己的一个小wiki站点。但是，难得的很多事都无法直接表达，所以，开立博客留以纪念。
+很多时候自己的表达不尽能说穿，但是也不希望空留于肚肠，这可能也是我的坏习惯吧——想要表达却不敢越界、外在奔放而又内心压抑。想要说出来却又难以言表。正好借此博客记录一些常有的事、发表一些自己的想法。
 
 
 ## Contact
 
-Email: hi#imalan.cn (replace # with @)
-
-Telegram：[AlanDecode](https://t.me/alandecode)
+Email: Garygu9426@gmail.com
