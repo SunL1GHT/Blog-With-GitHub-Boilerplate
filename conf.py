@@ -19,7 +19,7 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "三缄其口 && 九九帰一"
+site_name = "三缄其口 | 九九帰一"
 site_logo = "${static_prefix}slogan.png"
 site_build_date = "2020-02-10T16:51+08:00"
 author = "Gary"
