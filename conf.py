@@ -79,6 +79,8 @@ social_links = [
 head_addon = r'''
 <meta http-equiv="x-dns-prefetch-control" content="on">
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net" />
+
+<link rel="shortcut icon" href="${static_prefix}favicon.ico?v=yyLyaqbyRG">
 '''
 
 footer_addon = ''
