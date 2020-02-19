@@ -9,8 +9,9 @@ categories:
 - 引文
 tags: 
 - blog
+- English
 ---
-> Stay hungry,Stay foolish.
+> Stay hungry，Stay foolish.
 
 When I was young, I thought old people had everything figured out. Now that I'm old, I know this isn't true.
 
