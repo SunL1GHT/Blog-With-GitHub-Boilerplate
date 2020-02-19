@@ -51,6 +51,16 @@ nav = [
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
+        {
+        "name": "关于",
+        "url": "${site_prefix}about/",
+        "target": "_self"
+    } ,
+       {
+        "name": "摘引",
+        "url": "${site_prefix}archives/箴言晓录/",
+        "target": "_self"
+    },
     {
         "name": "关于",
         "url": "${site_prefix}about/",
