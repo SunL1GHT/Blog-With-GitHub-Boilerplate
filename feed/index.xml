@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三缄其口 | 九九帰一</title><link>/</link><description>永远相信美好的事情即将发生。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/SunL1GHT/Blog-With-GitHub-Boilerplate@gh-pages/slogan.png</url><title>三缄其口 | 九九帰一</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 22 Feb 2020 14:38:29 +0806</lastBuildDate><pubDate>Sat, 22 Feb 2020 14:38:29 +0806</pubDate><item><title>火影之名</title><link>/archives/火影之名/</link><description>&lt;h1&gt;火影忍者·疾风传&lt;/h1&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>三缄其口 | 九九帰一</title><link>/</link><description>永远相信美好的事情即将发生。</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://cdn.jsdelivr.net/gh/SunL1GHT/Blog-With-GitHub-Boilerplate@gh-pages/slogan.png</url><title>三缄其口 | 九九帰一</title><link>/</link></image><language>zh-CN</language><lastBuildDate>Sat, 22 Feb 2020 14:58:05 +0806</lastBuildDate><pubDate>Sat, 22 Feb 2020 14:58:05 +0806</pubDate><item><title>火影之名</title><link>/archives/火影之名/</link><description>&lt;h1&gt;火影忍者·疾风传&lt;/h1&gt;
 &lt;p&gt;首先就不吐槽“博人传”的剧情了，但是博人转也不是一无是处，最起码国人画师还是很厉害的（第65集）。&lt;/p&gt;
 &lt;p&gt;火影可以说是伴随高中一开始的记忆就有了的，真是火影一生推。&lt;/p&gt;
 &lt;p&gt;&lt;figure  size-undefined&gt;&lt;img width="-1" height="-1" src="./images/火影.jpg" /&gt;&lt;figcaption&gt;火影&lt;/figcaption&gt;&lt;/figure&gt;&lt;/p&gt;
@@ -787,7 +787,7 @@ men on their backs.&lt;/p&gt;
 文章末尾的话是：反思坚持不下的原因：&lt;strong&gt;忘记&lt;/strong&gt;
 不想忘记，想时常牢记，共勉吧，愿我们在以后的人生道路上能有所成就。&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;==转眼即将毕业，对入职亦或者升学都充满了期待。==&lt;/p&gt;
+&lt;p&gt;转眼即将毕业，对入职亦或者升学都充满了期待。&lt;/p&gt;
 &lt;p&gt;从知乎上看到网友分享的入职前的准备，摘抄下来，同大家一块学习。&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;&lt;p&gt;一定要熟练运用office软件。特别是&lt;strong&gt;excel&lt;/strong&gt;，透视图部分和vlookup部分；会受用多年。&lt;/p&gt;
@@ -846,27 +846,26 @@ men on their backs.&lt;/p&gt;
 &lt;li&gt;&lt;p&gt;多和同事分享零食。极其有效的提升团队氛围，营造很cozy的感觉，谁用谁知道。喂，那位同学，放下妹纸的零食，我是要你买呀。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;&lt;p&gt;邮件的收件人我一定放到最后再填。没有收件人无法发出，这就给你检查邮件提供了第一步的防错。然后我会做一个checklist作为二次加固，贴在电脑旁边，逐一核对并脑补打勾的动作：&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;blockquote&gt;&lt;p&gt;Step 1 &lt;strong&gt;正文 checking：&lt;/strong&gt;
-□ 发送对象的称谓、职位是否正确？（上班第一个月的邮件2次写错高层领导的职位，那酸爽~）
-□ 正文错别字是否检查，确保无误？
-□ 观点、论据和要follow-up的事项是否表达清楚？
-□ 签名档是否完整
-□ 邮件内容是否还需leader审核&lt;/p&gt;
-&lt;p&gt;Step 2 &lt;strong&gt;附件 checking：&lt;/strong&gt;
-□ 如有附件，是否已经附上？
-□ 附件中内容再看一遍。确保收件人打开附件后，光标停在最需要看到的地方。
-□ 文档格式是否能兼容收件人的版本（一定要熟悉领导的office版本，保险措施存office 2003）&lt;/p&gt;
-&lt;p&gt;Step 3 &lt;strong&gt;收件人/抄送人 checking：&lt;/strong&gt;
-□ 开始填写收件人、抄送人
-□ 是否有漏掉的收件人？
-□ 是否有抄送人，普通抄送还是密送？
-□ 收件/抄送人邮箱是否拼写错误？&lt;/p&gt;
+&lt;blockquote&gt;&lt;p&gt;Step 1 &lt;strong&gt;正文 checking：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;□ 发送对象的称谓、职位是否正确？（上班第一个月的邮件2次写错高层领导的职位，那酸爽~）&lt;/p&gt;
+&lt;p&gt;□ 正文错别字是否检查，确保无误？&lt;/p&gt;
+&lt;p&gt;□ 观点、论据和要follow-up的事项是否表达清楚？&lt;/p&gt;
+&lt;p&gt;□ 签名档是否完整&lt;/p&gt;
+&lt;p&gt;□ 邮件内容是否还需leader审核&lt;/p&gt;
+&lt;p&gt;Step 2 &lt;strong&gt;附件 checking：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;□ 如有附件，是否已经附上？&lt;/p&gt;
+&lt;p&gt;□ 附件中内容再看一遍。确保收件人打开附件后，光标停在最需要看到的地方。&lt;/p&gt;
+&lt;p&gt;□ 文档格式是否能兼容收件人的版本（一定要熟悉领导的office版本，保险措施存office 2003）&lt;/p&gt;
+&lt;p&gt;Step 3 &lt;strong&gt;收件人/抄送人 checking：&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;□ 开始填写收件人、抄送人&lt;/p&gt;
+&lt;p&gt;□ 是否有漏掉的收件人？&lt;/p&gt;
+&lt;p&gt;□ 是否有抄送人，普通抄送还是密送？&lt;/p&gt;
+&lt;p&gt;□ 收件/抄送人邮箱是否拼写错误？&lt;/p&gt;
 &lt;p&gt;Step 4 &lt;strong&gt;发送&lt;/strong&gt;（同学，再看一遍附件漏没漏啊）&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;好奇宝宝一般是招人喜欢的，因为好为人师是天性。但是，注意这个但是啊。不管跟同事还是领导提问题，确保自己要能提出1-2个想法或者解决思路，甭管对不对，至少不会显得你是个没有基本思考能力的愣头青。幼稚蠢萌，比起文傻来，还是好几个段位的。&lt;/li&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;好奇宝宝一般是招人喜欢的，因为好为人师是天性。但是，注意这个但是啊。不管跟同事还是领导提问题，确保自己要能提出1-2个想法或者解决思路，甭管对不对，至少不会显得你是个没有基本思考能力的愣头青。幼稚蠢萌，比起文傻来，还是好几个段位的。&lt;/p&gt;
+&lt;/li&gt;
 &lt;/ol&gt;
 &lt;hr&gt;
 &lt;ol&gt;
