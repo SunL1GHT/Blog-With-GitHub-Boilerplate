@@ -11,7 +11,12 @@ tags:
 - C/C++
 ---
 
+- 指针等价表：[石墨文档-等价表](https://shimo.im/docs/QGCQCKRpTtgXdw6K/)
+
+---
+
 交换内容，形参影响实参
+
 ```c
 #include <stdio.h>
 void swap(int *p1,int *p2)
