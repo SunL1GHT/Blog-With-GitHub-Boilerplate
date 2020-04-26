@@ -12,7 +12,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/生活随想/</loc>
+    <loc>/archives/Scandal/</loc>
     <lastmod>2020-04-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
@@ -68,7 +68,7 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-    <loc>/archives/微波逐迹/</loc>
+    <loc>/archives/Trace/</loc>
     <lastmod>2020-02-16</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
