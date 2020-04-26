@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "SunL1GHT/SunL1GHT.github.io@gh-pages"
+    "repo": "SunL1GHT/Glog@gh-pages"
 }
 
 valine = {
@@ -33,7 +33,7 @@ background_img = "${static_prefix}fushihui.jpg"
 site_build_date = "2020-02-10T16:51+08:00"
 author = "Gary"
 email = "Garygu9426@gmail.com"
-author_homepage = "http://SunL1GHT.github.io"
+author_homepage = "http://SunL1GHT.github.io/glog"
 description = "永远相信美好的事情即将发生。"
 key_words = [ '人生自留地', '黑暗森林', '我来自过去']
 language = 'zh-CN'
