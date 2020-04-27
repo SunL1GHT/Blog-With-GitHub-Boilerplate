@@ -5,112 +5,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">	
 
 <url>
-    <loc>/about/</loc>
+    <loc>/Glog/about/</loc>
     <lastmod>2020-02-14</lastmod>
     <changefreq>always</changefreq>
     <priority>0.8</priority>
 </url>
 
 <url>
-    <loc>/archives/Scandal/</loc>
+    <loc>/Glog/archives/Scandal/</loc>
     <lastmod>2020-04-26</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/1988/</loc>
+    <loc>/Glog/archives/1988/</loc>
     <lastmod>2020-03-25</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/Snapshot/</loc>
+    <loc>/Glog/archives/Snapshot/</loc>
     <lastmod>2020-03-11</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/复试复试/</loc>
+    <loc>/Glog/archives/复试复试/</loc>
     <lastmod>2020-03-05</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/临行密密缝/</loc>
+    <loc>/Glog/archives/临行密密缝/</loc>
     <lastmod>2020-02-22</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/What You'll Wish You'd Known/</loc>
+    <loc>/Glog/archives/What You'll Wish You'd Known/</loc>
     <lastmod>2020-02-19</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/Being a Noob/</loc>
+    <loc>/Glog/archives/Being a Noob/</loc>
     <lastmod>2020-02-19</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/TED演讲/</loc>
+    <loc>/Glog/archives/TED演讲/</loc>
     <lastmod>2020-02-17</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/Trace/</loc>
+    <loc>/Glog/archives/Trace/</loc>
     <lastmod>2020-02-16</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/箴言晓录/</loc>
+    <loc>/Glog/archives/箴言晓录/</loc>
     <lastmod>2020-02-10</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/如何阅读一本书/</loc>
+    <loc>/Glog/archives/如何阅读一本书/</loc>
     <lastmod>2020-02-10</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/读书有法/</loc>
+    <loc>/Glog/archives/读书有法/</loc>
     <lastmod>2020-02-10</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/古典乐博一下开心/</loc>
+    <loc>/Glog/archives/古典乐博一下开心/</loc>
     <lastmod>2020-02-07</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/火影之名/</loc>
+    <loc>/Glog/archives/火影之名/</loc>
     <lastmod>2019-05-03</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
 </url>
 
 <url>
-    <loc>/archives/RoughTale/</loc>
+    <loc>/Glog/archives/RoughTale/</loc>
     <lastmod>2019-05-02</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
